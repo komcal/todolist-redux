@@ -63,7 +63,7 @@ describe('todos reducer', () => {
         },
         {
           id: 2,
-          text: 'secound todo',
+          text: 'second todo',
           completed: false
         }
       ]
@@ -75,7 +75,7 @@ describe('todos reducer', () => {
         },
         {
           id: 2,
-          text: 'secound todo',
+          text: 'second todo',
           completed: false
         }
 
@@ -98,14 +98,14 @@ describe('todos reducer', () => {
         },
         {
           id: 2,
-          text: 'secound todo',
+          text: 'second todo',
           completed: false
         }
       ]
       const expectedState = [
         {
           id: 2,
-          text: 'secound todo',
+          text: 'second todo',
           completed: false
         }
       ]
